@@ -3,7 +3,7 @@
     <!-- <Nav></Nav> -->
     <Header></Header>
     <router-link to="/"></router-link>
-    <router-view/> 
+    <router-view/>
   </div>
 </template>
 
@@ -148,6 +148,9 @@ body {
 }
 .fs-18 {
   font-size: 18px;
+}
+.fs-20 {
+  font-size: 20px;
 }
 .fs-24 {
   font-size: 24px;

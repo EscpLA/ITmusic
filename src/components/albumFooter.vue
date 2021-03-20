@@ -2,7 +2,7 @@
   <div class="albumFooter bg-black">
     <div class="copyright">
       <div class="img-box fl" >
-        <img src="../../../images/img/版权.png" alt="" />
+        <img src="../../images/img/版权.png" alt="" />
       </div>
       <p class="fs-14 style-white">爱特工作室出品</p>
     </div>

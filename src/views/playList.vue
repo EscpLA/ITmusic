@@ -13,7 +13,7 @@
 import albumIntro from "../components/album-info/album-intro.vue";
 import songsList from "../components/album-info/songsList.vue";
 import comments from "../components/album-info/comments.vue";
-import albumFooter from "../components/album-info/albumFooter.vue";
+import albumFooter from "../components/albumFooter.vue";
 export default {
   name: "albumInfo",
   components: {

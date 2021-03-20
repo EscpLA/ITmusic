@@ -61,7 +61,11 @@ li{
     width: 178px;
     height: 178px;
     margin: 16px 11px 20px 11px;
+    background-image: url(../../img/图片/kristina-manchenko-xeq-0jqUcKc-unsplash.jpg);
+    background-position:center center;
+    background-size: 152%;
 }
+
 .song-name{
     height: 18px;
     font-size: 18px;

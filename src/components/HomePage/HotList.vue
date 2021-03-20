@@ -11,6 +11,7 @@
 .HotList{
     padding-left: 59px;
     padding-right: 59px;
+    margin-bottom: 679x;
 }
 ul{
     width: 1197px;

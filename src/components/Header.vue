@@ -119,9 +119,12 @@ input{
     text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.51);
     line-height: 50px;
     padding-left: 16px;
-    background-image: url();
+    background-image: url(../img/图片/angle-right.png);
+    background-repeat: no-repeat;
+    background-position: 311px 1px;
     outline: none;
 }
+
 .img-contianer{
     width: 71px;
     height: 32px;

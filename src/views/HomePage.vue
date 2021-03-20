@@ -6,6 +6,7 @@
         <HotSong></HotSong>
         <NewAlbum></NewAlbum>
         <HotList></HotList>
+        <albumFooter/>
         </div>
     </div>
 </template>
@@ -18,13 +19,15 @@ import Slideshow from '../components/HomePage/Slideshow'
 import HotSong from '../components/HomePage/HotSong'
 import NewAlbum from '../components/HomePage/NewAlbum'
 import HotList from '../components/HomePage/HotList'
+import albumFooter from '../components/albumFooter'
 export default {
     components: {
     Slideshow,
     HotSong,
     NewAlbum,
     HotList,
-    Header
+    Header,
+    albumFooter
   }
 }
 </script>
